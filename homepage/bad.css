@@ -1,0 +1,60 @@
+body{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image: linear-gradient(white, blue);
+    text-decoration: overline ;
+}
+.banner{
+    display: flex;
+    background-image: linear-gradient(blue, white, blue);
+    padding: 10px;
+}
+.text{
+    position: relative;
+    top:50%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+.sec1{
+    text-align: center;
+    margin: auto;
+}
+.name{
+    font-weight: bold;
+}
+img{
+    margin-left: 10%;
+    width: 15%;
+    height: auto; 
+    padding: 5px;
+    border: solid 5px yellow;
+}
+h4{
+    display: inline;
+}
+.info{
+    display: flex;
+}
+h2{
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(to right, red, black);
+}
+.sidebar{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.content{
+    padding: 10px;
+    background-color: yellow;
+    color: magenta;
+}
+.list{
+    margin-left: 50px;
+}
+.exp{
+    background-image: linear-gradient(to right, hotpink, pink,orange, grey);
+}
+.skills{
+    background-image: linear-gradient(to right, yellow, white, red, white);
+}

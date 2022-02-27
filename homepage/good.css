@@ -1,0 +1,54 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.banner{
+    display: flex;
+    background-color: lightgreen;
+    color:white;
+    padding: 10px;
+}
+.text{
+    position: relative;
+    background-color: rgba(8, 143, 189, 0.795);
+    top:50%;
+    margin: auto;
+    text-align: center;
+    border: double 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.sec1{
+    text-align: center;
+    margin: auto;
+}
+.name{
+    font-weight: bold;
+}
+img{
+    margin-left: 10%;
+    width: 15%;
+    height: auto; 
+    border-radius: 50%;
+}
+h4{
+    display: inline;
+}
+.info{
+    display: flex;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: brown;
+}
+.sidebar{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.content{
+    padding: 20px;
+    background-color: lightgrey;
+}
+.list{
+    margin-left: 50px;
+}
