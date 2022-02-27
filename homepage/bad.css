@@ -48,12 +48,14 @@ h2{
     padding: 10px;
     background-color: yellow;
     color: magenta;
+    text-align: right;
 }
 .list{
     margin-left: 50px;
 }
 .exp{
     background-image: linear-gradient(to right, hotpink, pink,orange, grey);
+    text-align: center;
 }
 .skills{
     background-image: linear-gradient(to right, yellow, white, red, white);
